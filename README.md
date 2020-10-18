@@ -5,4 +5,4 @@ Members:
 1. Siyun Zuo
 2. Ainaz Estiri
 3. Ivan Neto
-4. 
+4. Joel Charco Lopez
