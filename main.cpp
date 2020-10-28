@@ -3,8 +3,25 @@
 
 int main() {
     int integer;
-    /* i need to do a 3pg history paper by friday
-    how do u save it? save as what yeah /main.cpp
-    // xD
+    /*
+    UC RiBerside
+    choco milk is good
+    n
+    o
+    that's bad
+    nah
+    oh choco milk comes from brown cows and strawberry milk comes from
+    pink cows
+    wth is a BlA
+    */
+    
+    // hi
+    // time to infiltrate the pentagon
+    /*
+    strawberry milk tho
+    it good bro
+    taste the pink
+    yes
+    welcome to the BlAcK pAr
     */
 }

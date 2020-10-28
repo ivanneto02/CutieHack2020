@@ -1,4 +1,4 @@
-# CutieHack2020
+c# CutieHack2020
 Group project for Cutie Hack Competition
 #
 Members:
