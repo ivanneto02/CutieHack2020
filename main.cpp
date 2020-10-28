@@ -1,27 +1,35 @@
 #include <iostream>
 #include<string>
+using namespace std;
 
 int main() {
     int integer;
     /*
     UC RiBerside
-    choco milk is good
-    n
-    o
-    that's bad
-    nah
-    oh choco milk comes from brown cows and strawberry milk comes from
-    pink cows
-    wth is a BlA
-    */
-    
-    // hi
-    // time to infiltrate the pentagon
-    /*
-    strawberry milk tho
-    it good bro
-    taste the pink
+    chat deleted 
+    too much knowledge, cannot be shared
+    big brain'd
     yes
-    welcome to the BlAcK pAr
+    oh she fixed it good job
+    no hacking in UC RiBerside
+    maybe...
+    yes
+    Okay now we're all in
+   rood 
+   we are too powerful
+   mega brain
+   yes
+   yes yes
+   Hack tim
+   we get into all the databases
+   u kno u want to
+   
+
     */
+   cout << "Hewwo Wowld" << endl;
+   cout << "testIvan" << endl;
+   cout << "milk" << endl;
+   cout<< "Meeeeee"<<endl;
+
+   return 0;
 }
