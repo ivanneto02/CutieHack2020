@@ -1,0 +1,24 @@
+1. Go to https://discord.com/developers/applications
+
+2. Create "New Application"
+
+3. Go to "Bot" and select "Add Bot"
+
+4. Go to "OAuth2", check "bot" and add "Administrator" permission.
+
+5. Go to "General information and copy the bot token"
+
+6. Copy the link and paste it onto browser. Do the prompt and choose the server to add the minigames in.
+
+7. Download the code
+
+8. Create a new file named ".env" with "no extension" extension.
+
+9. type "DISCORD_BOT={your_token}", replacing {your_token} with the token you copied earlier.
+
+10. Run the following commands:
+    1. pip install -U discord
+    2. pip install -U dotenv
+    3. python mainBot.py
+    
+11. You're good to go. Enjoy!
