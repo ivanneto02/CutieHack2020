@@ -1,0 +1,9 @@
+"$toss" - Flip a coin.
+
+"$roulette" - Play the roulette game.
+
+"$memtest" -  Play a memory game.
+
+"$ping" - "pong!"
+
+"$help" - Displays this page.
