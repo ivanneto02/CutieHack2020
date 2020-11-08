@@ -1,9 +1,12 @@
 import random
 import discord
 import time
+import os
+from dotenv import load_dotenv
 from discord.ext import commands
 
-TOKEN = "Nzc0NjcyMjk3NDI3NTk5Mzkw.X6bLzA.gLqgqk2GGptYPrsyVAlnVXOFQ58"
+load_dotenv()
+TOKEN = os.getenv('DISCORD_TOKEN')
 
 async def coin_toss(message):
     await message.channel.send(f'To play, type in H for heads and T for tails. To quit game, type in Q\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-')
