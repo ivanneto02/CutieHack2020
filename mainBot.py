@@ -134,7 +134,7 @@ async def memtest(message):
             digits += 1
             wait_time += 2
         else:
-            if (answer == "Q"):
+            if (answer.upper() == "Q"):
                 active = False
                 continue
             await message.channel.send("Wrong!")
